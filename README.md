@@ -25,7 +25,7 @@
 **[badgekit](https://github.com/topdaily-dev/badgekit)** — generate shields.io README badge rows from the terminal.
 
 ```bash
-npx badgekit row ci npm license --owner topdaily-dev --repo badgekit
+npx @topdaily-dev/badgekit row ci npm license node --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit
 ```
 
 ---
