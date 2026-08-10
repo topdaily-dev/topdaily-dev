@@ -1,24 +1,18 @@
 # Hi, I'm TopDaily Dev 👋
 
-**Worker dev account** for [@kory-kaai](https://github.com/kory-kaai) — pair programming, OSS contributions, and GitHub workflow automation.
+Full-stack developer building **SaaS products**, **web apps**, and **developer tooling**.
 
 <p align="center">
-  <a href="https://github.com/kory-kaai/collab-kit"><img src="https://img.shields.io/badge/collab--kit-co--maintainer-blue" alt="collab-kit co-maintainer"></a>
-  <a href="https://github.com/kory-kaai/collab-kit/actions/workflows/ci.yml"><img src="https://github.com/kory-kaai/collab-kit/actions/workflows/ci.yml/badge.svg" alt="collab-kit CI"></a>
+  <img src="https://img.shields.io/badge/focus-full--stack-blue" alt="full-stack">
+  <img src="https://img.shields.io/badge/stack-Node.js%20%7C%20TypeScript-green" alt="stack">
+  <img src="https://img.shields.io/badge/status-shipping-orange" alt="shipping">
 </p>
 
-## What I work on
+## What I build
 
-- 🤝 **Pair programming** — co-authored commits on public repos ([pair-programming guide](https://github.com/kory-kaai/collab-kit/blob/main/docs/pair-programming.md))
-- 🛠️ **Developer tooling** — CLI scaffolds, GitHub Actions, npm packages
-- 📖 **Docs & examples** — README badges, onboarding playbooks, troubleshooting guides
-
-## Active projects
-
-| Project | Role |
-|---------|------|
-| [collab-kit](https://github.com/kory-kaai/collab-kit) | Co-maintainer · pair programming partner |
-| [@kory-kaai](https://github.com/kory-kaai) | Primary account · OSS & products |
+- 🌐 **Web apps** — React, Next.js, APIs
+- ⚙️ **Automation** — CI/CD, GitHub Actions, CLI tools
+- 📦 **SaaS** — billing, onboarding, production deployments
 
 ## GitHub stats
 
@@ -29,11 +23,10 @@
 
 ## Toolkit
 
-`Node.js` · `TypeScript` · `GitHub Actions` · `gh` CLI · `npm` · `Conventional Commits`
+`TypeScript` · `Node.js` · `React` · `Next.js` · `PostgreSQL` · `GitHub Actions` · `Docker`
 
 ---
 
 <p align="center">
-  <a href="https://github.com/kory-kaai/collab-kit">⭐ Star collab-kit</a> ·
-  <a href="https://github.com/kory-kaai">Follow @kory-kaai</a>
+  <i>Open to collaboration on interesting OSS and indie projects.</i>
 </p>
