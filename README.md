@@ -16,16 +16,27 @@
 
 ---
 
-### ⚡ Featured project
+### ⚡ Featured projects
 
-<a href="https://github.com/topdaily-dev/badgekit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=tokyonight&hide_border=true&border_radius=12" alt="badgekit" />
-</a>
+<p align="center">
+  <a href="https://github.com/topdaily-dev/badgekit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=tokyonight&hide_border=true&border_radius=12" alt="badgekit" />
+  </a>
+  <a href="https://github.com/topdaily-dev/repomark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=repomark&theme=tokyonight&hide_border=true&border_radius=12" alt="repomark" />
+  </a>
+</p>
 
 **[badgekit](https://github.com/topdaily-dev/badgekit)** — generate shields.io README badge rows from the terminal.
 
 ```bash
 npx @topdaily-dev/badgekit row ci npm license node --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit
+```
+
+**[repomark](https://github.com/topdaily-dev/repomark)** — score README and OSS repo health (badges, license, docs, CI).
+
+```bash
+npx @topdaily-dev/repomark check .
 ```
 
 ---
