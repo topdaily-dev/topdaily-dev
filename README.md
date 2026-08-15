@@ -1,22 +1,48 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=TopDaily+Dev;Full-stack+developer;SaaS+%C2%B7+web+apps+%C2%B7+automation" alt="Typing intro" />
-</div>
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-shipping_products-0ea5e9?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/stack-TypeScript_%C2%B7_Node_%C2%B7_Next.js-22c55e?style=for-the-badge" alt="stack" />
-  <img src="https://img.shields.io/badge/open_source-indie_dev-8b5cf6?style=for-the-badge" alt="open source" />
+  <strong>TopDaily Dev</strong> — OSS CLI tooling for README badges, repo health, and safe releases.
 </p>
 
 <p align="center">
-  I build <strong>SaaS products</strong>, <strong>web apps</strong>, and <strong>developer tools</strong> — with an emphasis on polished READMEs, CI, and npm-ready CLIs.
+  <a href="https://github.com/topdaily-dev/badgekit"><img src="https://img.shields.io/badge/badgekit-README_badges-0ea5e9?style=for-the-badge" alt="badgekit"></a>
+  <a href="https://github.com/topdaily-dev/repomark"><img src="https://img.shields.io/badge/repomark-repo_health-22c55e?style=for-the-badge" alt="repomark"></a>
+  <a href="https://github.com/topdaily-dev/shipkit"><img src="https://img.shields.io/badge/shipkit-releases-8b5cf6?style=for-the-badge" alt="shipkit"></a>
 </p>
 
 ---
 
-### ⚡ Featured projects
+## Toolchain
+
+Three small CLIs that compose — no SaaS, no lock-in.
+
+| Tool | Purpose |
+|------|---------|
+| [**badgekit**](https://github.com/topdaily-dev/badgekit) | Generate and validate shields.io README badge rows |
+| [**repomark**](https://github.com/topdaily-dev/repomark) | Score OSS repo hygiene; scaffold missing policy files |
+| [**shipkit**](https://github.com/topdaily-dev/shipkit) | Preflight, changelog, GitHub release, npm publish |
+
+```bash
+# Badges
+npx @topdaily-dev/badgekit row ci npm license --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit
+npx @topdaily-dev/badgekit validate .
+
+# Repo health
+npx @topdaily-dev/repomark check .
+npx @topdaily-dev/repomark fix .
+
+# Release
+npx @topdaily-dev/shipkit preflight
+npx @topdaily-dev/shipkit ship --patch --yes
+```
+
+Bootstrap a new repo with team workflows + this stack:
+
+```bash
+npx @korykaai/collab-kit init . --oss-toolchain
+```
+
+---
+
+## Featured repos
 
 <p align="center">
   <a href="https://github.com/topdaily-dev/badgekit">
@@ -27,58 +53,18 @@
   </a>
 </p>
 
-**[badgekit](https://github.com/topdaily-dev/badgekit)** — generate shields.io README badge rows from the terminal.
-
-```bash
-npx @topdaily-dev/badgekit row ci npm license node --owner topdaily-dev --repo badgekit --npm @topdaily-dev/badgekit
-```
-
-**[repomark](https://github.com/topdaily-dev/repomark)** — score README and OSS repo health (badges, license, docs, CI).
-
-```bash
-npx @topdaily-dev/repomark check .
-```
-
 ---
 
-### 📊 GitHub activity
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topdaily-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topdaily-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topdaily-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=topdaily-dev&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" height="170" />
-</p>
-
----
-
-### 🛠️ Toolkit
+TypeScript · Node.js · React · Next.js · PostgreSQL · Docker · GitHub Actions · npm
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,docker,github,vercel&perline=8" alt="Skills" />
 </p>
 
-`TypeScript` · `Node.js` · `React` · `Next.js` · `PostgreSQL` · `Docker` · `GitHub Actions` · `npm`
-
----
-
-### 📈 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/topdaily-dev/topdaily-dev/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/topdaily-dev/topdaily-dev/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/topdaily-dev/topdaily-dev/output/snake.svg" />
-</picture>
-
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=topdaily-dev&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Building in public. More OSS shipping soon.</i>
+  <i>Building maintainable OSS — shipped in public.</i>
 </p>
