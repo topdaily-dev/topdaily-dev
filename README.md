@@ -54,28 +54,28 @@ collab-kit enable-hooks .
 
 <p align="center">
   <a href="https://github.com/topdaily-dev/repomark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=repomark&theme=tokyonight&hide_border=true&border_radius=12" alt="repomark" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=repomark&theme=tokyonight&hide_border=true&border_radius=12" alt="repomark" />
   </a>
   <a href="https://github.com/topdaily-dev/badgekit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=tokyonight&hide_border=true&border_radius=12" alt="badgekit" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=badgekit&theme=tokyonight&hide_border=true&border_radius=12" alt="badgekit" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/topdaily-dev/shipkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=shipkit&theme=tokyonight&hide_border=true&border_radius=12" alt="shipkit" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=shipkit&theme=tokyonight&hide_border=true&border_radius=12" alt="shipkit" />
   </a>
   <a href="https://github.com/topdaily-dev/repomark-action">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=topdaily-dev&repo=repomark-action&theme=tokyonight&hide_border=true&border_radius=12" alt="repomark-action" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=topdaily-dev&repo=repomark-action&theme=tokyonight&hide_border=true&border_radius=12" alt="repomark-action" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kory-kaai/collab-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=tokyonight&hide_border=true&border_radius=12" alt="collab-kit" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=collab-kit&theme=tokyonight&hide_border=true&border_radius=12" alt="collab-kit" />
   </a>
   <a href="https://github.com/kory-kaai/shipkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kory-kaai&repo=shipkit&theme=tokyonight&hide_border=true&border_radius=12" alt="shipkit (kory-kaai)" />
+    <img src="https://github-readme-stats-sigma-lac.vercel.app/api/pin/?username=kory-kaai&repo=shipkit&theme=tokyonight&hide_border=true&border_radius=12" alt="shipkit (kory-kaai)" />
   </a>
 </p>
 
